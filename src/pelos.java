@@ -1,0 +1,3 @@
+class pelos {
+    int x;
+}
